@@ -17,7 +17,7 @@ To get started with this project, follow the steps below:
 ```
 git clone https://github.com/amine-hamzi/controller-advice-demo.git
 ```
-2. Build the project using Maven:
+2. Build the project using Gradle:
 ```
 cd controller-advice-demo
 gradle clean build
